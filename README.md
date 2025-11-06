@@ -34,7 +34,7 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+
 
 Half wave rectifier with filter:
 
@@ -44,10 +44,10 @@ Half wave rectifier with filter:
 Bridge rectifier with filter:
 <img width="1377" height="761" alt="image" src="https://github.com/user-attachments/assets/5aae6865-841c-47fd-a719-9fdd728480f6" />
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+TABULAR COLUMN ANFD CIRCUIT DIAGRAM:
+Rectifier without filter and Rectifier with filter:
+![WhatsApp Image 2025-11-06 at 09 19 23_62acfa24](https://github.com/user-attachments/assets/801c45f7-f817-46a0-9c76-7bbb83023732)
+
 
 WAVEFORM:
 HWR WITHOUT FILTER:
@@ -61,14 +61,17 @@ FWR WITHOUT FILTER:
 
 FWR WITH FILTER:
 <img width="1075" height="682" alt="image" src="https://github.com/user-attachments/assets/9b66452b-256f-45cb-892a-3f6b0cdcc82d" />
+WAVEFORMS (THEORETICAL)
+![WhatsApp Image 2025-11-06 at 09 19 20_8917957b](https://github.com/user-attachments/assets/e6299b5c-ec92-43ff-8170-b21d11166a32)
 
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-
-
-
-
+![WhatsApp Image 2025-11-06 at 09 19 33_7a4a9fa5](https://github.com/user-attachments/assets/456f00a4-db0d-4bec-8f1a-47723cb76049)
+![WhatsApp Image 2025-11-06 at 09 19 34_106b16dc](https://github.com/user-attachments/assets/10ae2d52-2315-47d2-ad0c-aac001fc8d4c)
+![WhatsApp Image 2025-11-06 at 09 19 33_02dd448d](https://github.com/user-attachments/assets/feb00de2-947a-40ae-9e2c-28c24956e98c)
+![WhatsApp Image 2025-11-06 at 09 19 33_466ffde3](https://github.com/user-attachments/assets/dfebac7f-b26b-4cdb-b136-fd5119cc8cba)
+![WhatsApp Image 2025-11-06 at 09 19 32_ceb8679a](https://github.com/user-attachments/assets/97345824-d9eb-4c2f-b961-a90441499bf7)
 
 
 
