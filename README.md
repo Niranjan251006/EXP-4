@@ -47,6 +47,10 @@ Bridge rectifier with filter:
 TABULAR COLUMN ANFD CIRCUIT DIAGRAM:
 Rectifier without filter and Rectifier with filter:
 ![WhatsApp Image 2025-11-06 at 09 19 23_62acfa24](https://github.com/user-attachments/assets/801c45f7-f817-46a0-9c76-7bbb83023732)
+![WhatsApp Image 2025-11-20 at 13 45 54_4a28abcf](https://github.com/user-attachments/assets/6425bd0e-81a5-4838-9733-cf1e2b4d0caf)
+
+![WhatsApp Image 2025-11-20 at 13 45 55_d9da8fa6](https://github.com/user-attachments/assets/151d5baa-cd03-4284-8b1d-a2e8513609e7)
+![WhatsApp Image 2025-11-20 at 13 45 55_b2e7414c](https://github.com/user-attachments/assets/dc610f98-360b-436c-9d38-014f98099319)
 
 
 WAVEFORM:
@@ -72,7 +76,10 @@ WAVEFORMS (THEORETICAL)
 ![WhatsApp Image 2025-11-06 at 09 19 33_02dd448d](https://github.com/user-attachments/assets/feb00de2-947a-40ae-9e2c-28c24956e98c)
 ![WhatsApp Image 2025-11-06 at 09 19 33_466ffde3](https://github.com/user-attachments/assets/dfebac7f-b26b-4cdb-b136-fd5119cc8cba)
 ![WhatsApp Image 2025-11-06 at 09 19 32_ceb8679a](https://github.com/user-attachments/assets/97345824-d9eb-4c2f-b961-a90441499bf7)
-
+![WhatsApp Image 2025-11-20 at 13 45 53_47c34d6e](https://github.com/user-attachments/assets/dedd527f-a424-49a9-9c3f-15a47bdc8af4)
+![WhatsApp Image 2025-11-20 at 13 45 53_58245e49](https://github.com/user-attachments/assets/f77e7dce-89a2-4761-9b6a-fb209cd7717b)
+![WhatsApp Image 2025-11-20 at 13 45 54_e4b6c112](https://github.com/user-attachments/assets/49621852-1e72-4288-8528-7fc0b2a0335d)
+![WhatsApp Image 2025-11-20 at 13 45 54_6aa20b8d](https://github.com/user-attachments/assets/0a740653-f884-42b7-aa4a-1b737bc5ce81)
 
 
 
